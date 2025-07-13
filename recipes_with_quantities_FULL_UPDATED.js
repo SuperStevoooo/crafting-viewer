@@ -316,6 +316,222 @@ const recipes = {
       ]
     ]
   },
+  "Powdered Iron": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Iron Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Pinch of Iron Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Iron",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Powdered Gold": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Gold Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Pinch of Gold Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Gold",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Powdered Copper": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Copper Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Pinch of Copper Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Copper",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Powdered Platinum": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Platinum Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Pinch of Platinum Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Platinum",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "Activated Charcoal": {
     "ingredients": [
       {
@@ -2356,6 +2572,294 @@ const recipes = {
       ]
     ]
   },
+  "Powdered Diamond Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Imperfect Diamond",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Refined Powdered Diamond Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Tiny Diamond",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Powdered Ruby Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Ruby",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Refined Powdered Ruby Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Star Ruby",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Refined Powdered Blue Sapphire Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Blue Sapphire",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Refined Powdered Emeraude Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Emeraude",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Powdered Jade Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Imperfect Jade",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Powdered Gemstone": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "10 GP Gem",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Refined Powdered Gemstone": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "50 GP Gem",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar & Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
   "Find Familiar Material": {
     "ingredients": [
       {
@@ -2425,11 +2929,161 @@ const recipes = {
       ]
     ]
   },
+  "Ceremony Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Silver",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Pinch of Silver Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Chromatic Orb Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Tiny Diamond",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Identify Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Any Pearl",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Owl Feather",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "B",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Protection from Evil and Good Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Holy Water",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Powdered Iron",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Snare Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "50 feet of Hempen Rope",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "Arcane Lock Material": {
     "ingredients": [
       {
         "label": "A",
-        "item": "Small Gold Nugget",
+        "item": "Powdered Gold",
         "qty": 1
       }
     ],
@@ -2498,7 +3152,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Jade",
+        "item": "Imperfect Jade",
         "qty": 1
       }
     ],
@@ -2560,6 +3214,92 @@ const recipes = {
         "D",
         "D",
         "E"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Continual Flame Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Ruby Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Immovable Object Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Gold",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Pinch of Gold Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Warding Bond Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Platinum Band",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "A",
+        "",
+        "A"
       ],
       [
         "",
@@ -2673,12 +3413,12 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Potion",
+        "item": "Water Bottle",
         "qty": 1
       },
       {
         "label": "B",
-        "item": "Powdered Gemstone",
+        "item": "Refined Powdered Gemstone",
         "qty": 1
       }
     ],
@@ -2705,7 +3445,7 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Bone",
+        "item": "Skeleton Skull",
         "qty": 1
       },
       {
@@ -2733,6 +3473,119 @@ const recipes = {
       ],
       [
         "C",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Magic Circle Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Holy Water",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Pinch of Iron Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "B",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+  "Nondetection Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Diamond Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ]
+    ]
+  },
+  "Revivify Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Diamond",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Revivify Material Tiny Diamond": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Tiny Diamond",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "",
         "",
         ""
       ]
@@ -2774,12 +3627,12 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Powdered Gemstone 50gp",
+        "item": "Refined Powdered Gemstone",
         "qty": 1
       },
       {
         "label": "B",
-        "item": "Bone",
+        "item": "Zombie Eye",
         "qty": 1
       }
     ],
@@ -2853,7 +3706,7 @@ const recipes = {
       },
       {
         "label": "C",
-        "item": "Iron Ingot (lored)",
+        "item": "Medium Iron Ingot",
         "qty": 1
       }
     ],
@@ -2913,6 +3766,75 @@ const recipes = {
       ]
     ]
   },
+  "Leomunds Secret Chest Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Perfect Black Sapphire",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Chest",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Onyx",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "A",
+        "",
+        "C"
+      ],
+      [
+        "B",
+        "",
+        "B"
+      ]
+    ]
+  },
+  "Stoneskin Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Diamond Dust",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Refined Powdered Diamond Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "Legend Lore Material": {
     "ingredients": [
       {
@@ -2922,7 +3844,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Bone",
+        "item": "Ivory Dust",
         "qty": 1
       },
       {
@@ -3014,6 +3936,92 @@ const recipes = {
       ]
     ]
     },
+    "Awaken Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Blue Lace Agate",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+    },
+    "Dawn Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Platinum Pendant",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Sunburst",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+    },
+    "Greater Restoration Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Refined Powdered Diamond Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
     "Incense & Oil Bundle": {
         "ingredients": [
             {
@@ -3046,6 +4054,1728 @@ const recipes = {
             ]
         ]
     },
+  "Hallow Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Incense & Oil Bundle",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Refined Expensive Ink",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "B",
+        "C"
+      ],
+      [
+        "A",
+        "B",
+        "C"
+      ],
+      [
+        "A",
+        "B",
+        "C"
+      ]
+    ]
+  },
+  "Infernal Calling Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Star Ruby",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Planar Binding Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Any 1,000 GP Gem",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Raise Dead Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Diamond",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "",
+        "A",
+        ""
+      ]
+    ]
+  },
+  "Reincarnate Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Incense & Oil Bundle",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Refined Expensive Ink",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "C",
+        "C",
+        "C"
+      ]
+    ]
+  },
+  "Summon Draconic Spirit Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Dragon Skull",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Red Dye",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Blue Spinel",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Large Copper Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "B",
+        "C",
+        "D"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Circle of Death Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Black Pearl",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Contingency Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Ivory Dust",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Armor Stand",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Any 500 GP Gem",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "C",
+        "C"
+      ]
+    ]
+  },
+  "Create Homunculus Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Clay Block",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Mandrake Root Paste",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Jacinth",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Dagger",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "C",
+        "B",
+        "C"
+      ],
+      [
+        "A",
+        "D",
+        "A"
+      ],
+      [
+        "A",
+        "E",
+        "A"
+      ]
+    ]
+  },
+  "Create Undead Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Decorated Pot",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Thick Potion",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Onyx",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Coarse Dirt",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "C",
+        "C",
+        "C"
+      ],
+      [
+        "B",
+        "",
+        "D"
+      ],
+      [
+        "A",
+        "",
+        "A"
+      ]
+    ]
+  },
+  "Drawmijs Instant Summons Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Any Sapphire",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "A"
+      ]
+    ]
+  },
+  "Find the Path Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Divination Materials",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Chunk of Bone",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Ivory Dust",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Pristine Fang",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "C",
+        "A",
+        "D"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+  "Fizbans Platinum Shield Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Ancient Draconic Scale",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Platinum Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+  "Forbiddance Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Ruby Dust",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Holy Water",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Incense & Oil Bundle",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ]
+    ]
+  },
+  "Guards and Wards Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Incense & Oil Bundle",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Sulfur",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Oil Flask",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Rope Strands",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Monstrous Blood",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Large Silver Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Table",
+    "table": [
+      [
+        "A",
+        "B",
+        "C"
+      ],
+      [
+        "D",
+        "E",
+        "F"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Heroes Feast Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Colorful Clay Pot",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Any 1,000 GP Gem",
+        "qty": 1
+      }
+    ],
+    "system": "Anvil",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "A",
+        "",
+        "B"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Magic Jar Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Alexandrite",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Crystal",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Decorated Pot",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Flat Clay Pot",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "D",
+        "B"
+      ],
+      [
+        "B",
+        "C",
+        "B"
+      ]
+    ]
+  },
+  "Programmed Illusion Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Fleece",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Powdered Jade Dust",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Rope Strands",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "C",
+        "A",
+        "C"
+      ]
+    ]
+  },
+  "Soul Cage Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Silver Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ]
+    ]
+  },
+  "Summon Fiend Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Monstrous Blood",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Ruby",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+  "Tashas Otherworldly Guise Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Holy Water",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+  "True Seeing Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Oil Flask",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Meat Fat",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Spice",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Crushed Fairy Stool",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "A",
+        "D",
+        "A"
+      ]
+    ]
+  },
+  "Draconic Transformation Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Dragon Skull",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Enchanted Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+  "Forcecage Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "30x Powdered Ruby Dust",
+        "qty": 30
+      }
+    ],
+    "system": "Anvil",
+    "table": [
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+  "Mordenkainens Magnificent Mansion Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Ivory Dust",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Smooth Quartz Block",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Large Silver Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "C",
+        "B",
+        "C"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "C",
+        "B",
+        "C"
+      ]
+    ]
+  },
+  "Mordenkainens Sword Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Platinum Bar",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Copper Bar",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Zincite",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "B",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "B",
+        "C",
+        "B"
+      ]
+    ]
+  },
+  "Project Image Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Skeleton Skull",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Armor Stand",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Fleece",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "C",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Resurrection Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Shiny Diamond",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Sequester Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Refined Powdered Diamond Dust",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Refined Powdered Emeraude Dust",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Refined Powdered Blue Sapphire Dust",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Refined Powdered Ruby Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "C",
+        "B",
+        "D"
+      ],
+      [
+        "",
+        "E",
+        ""
+      ]
+    ]
+  },
+  "Simulacrum Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Blue Ice",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "30x Powdered Ruby Dust",
+        "qty": 30
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Symbol Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Sulfur",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Bone Meal",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Banana",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Raw Cod",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Mysterious Shell",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Powdered Diamond Dust",
+        "qty": 1
+      },
+      {
+        "label": "G",
+        "item": "Opal",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "C",
+        "D"
+      ],
+      [
+        "E",
+        "F",
+        "G"
+      ]
+    ]
+  },
+  "Temple of the Gods Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Holy Symbol",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Gold Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+  "Tether Essence Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Platinum Bar",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Platinum Bar",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Small Platinum Bar",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Small Platinum Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "D",
+        "D"
+      ],
+      [
+        "C",
+        "B",
+        ""
+      ],
+      [
+        "A",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Clone Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Shiny Diamond",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Square Clay Pot",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Rotten Flesh",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "C",
+        "C",
+        "C"
+      ],
+      [
+        "D",
+        "A",
+        "D"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Dark Star Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Onyx",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Assassins Blood",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Holy Aura Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Clay Pot",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Holy Symbol",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Cotton",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Hardened Paper",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "D",
+        "D",
+        "D"
+      ],
+      [
+        "E",
+        "B",
+        "C"
+      ],
+      [
+        "",
+        "A",
+        ""
+      ]
+    ]
+  },
+  "Mighty Fortress Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Shiny Diamond",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Imprisonment - Burial Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Armor Stand",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Mithral Ingot",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "B",
+        ""
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Imprisonment - Chaining Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Armor Stand",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Mithral Ingot",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Medium Adamantine Ingot",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Medium Iron Ingot",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Medium Copper Bar",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Medium Gold Bar",
+        "qty": 1
+      },
+      {
+        "label": "G",
+        "item": "Medium Silver Bar",
+        "qty": 1
+      },
+      {
+        "label": "H",
+        "item": "Medium Platinum Bar",
+        "qty": 1
+      },
+      {
+        "label": "I",
+        "item": "Large Iron Chain",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "C",
+        "D"
+      ],
+      [
+        "E",
+        "I",
+        "F"
+      ],
+      [
+        "G",
+        "A",
+        "H"
+      ]
+    ]
+  },
+  "Imprisonment - Minimus Containment Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Armor Stand",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Blue Quartz",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "White Quartz",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Star Rose Quartz",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Chalcedony",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Citrine",
+        "qty": 1
+      },
+      {
+        "label": "G",
+        "item": "Purple Quartz",
+        "qty": 1
+      },
+      {
+        "label": "H",
+        "item": "Enchanted Dust",
+        "qty": 1
+      },
+      {
+        "label": "I",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "C",
+        "D"
+      ],
+      [
+        "E",
+        "F",
+        "G"
+      ],
+      [
+        "H",
+        "A",
+        "I"
+      ]
+    ]
+  },
+  "Imprisonment - Slumber Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Armor Stand",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Sourgrass Powder",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Mandrake Root Paste",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Nightshade Paste",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Moonstalker Paste",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Wolfsbane Powder",
+        "qty": 1
+      },
+      {
+        "label": "G",
+        "item": "Gillyweed Mush",
+        "qty": 1
+      },
+      {
+        "label": "H",
+        "item": "Singing Nettle Powder",
+        "qty": 1
+      },
+      {
+        "label": "I",
+        "item": "Activated Enchanted Dust",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "C",
+        "D"
+      ],
+      [
+        "E",
+        "F",
+        "G"
+      ],
+      [
+        "H",
+        "A",
+        "I"
+      ]
+    ]
+  },
+  "Imprisonment - Hedged Prison Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Armor Stand",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Smooth Jade",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Invulnerability Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Adamantine Ingot",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ]
+    ]
+  },
+  "Shapechange Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "15x Smooth Jade",
+        "qty": 15
+      }
+    ],
+    "system": "Anvil",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Time Ravage Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hourglass",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Perfect Diamond",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "True Resurrection Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Perfect Diamond",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Holy Water",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "Powdered Diamond Dust": {
     "ingredients": [
       {
@@ -3494,33 +6224,6 @@ const recipes = {
       {
         "label": "A",
         "item": "Powdered Gemstone Dust (x50)",
-        "qty": 1
-      }
-    ],
-    "system": "Crafting Table",
-    "table": [
-      [
-        "",
-        "",
-        ""
-      ],
-      [
-        "A",
-        "",
-        "A"
-      ],
-      [
-        "",
-        "",
-        ""
-      ]
-    ]
-  },
-  "Refined Gemstone Dust Trade Pack": {
-    "ingredients": [
-      {
-        "label": "A",
-            "item": "Refined Powdered Gemstone (x10)",
         "qty": 1
       }
     ],
