@@ -3078,6 +3078,70 @@ const recipes = {
       ]
     ]
     },
+     "Powdered Ruby Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Ruby",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar and Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+    },
+  "Refined Powdered Ruby Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Star Ruby",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar and Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+    },
     "Refined Powdered Diamond Dust": {
         "ingredients": [
             {
@@ -3109,6 +3173,70 @@ const recipes = {
                 ""
             ]
         ]
+    },
+  "Refined Powdered Blue Sapphire Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Blue Sapphire",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar and Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+    },
+  "Refined Powdered Emeraude Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Emeraude",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mortar and Pestle",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
     },
   "Expensive Ink": {
     "ingredients": [
