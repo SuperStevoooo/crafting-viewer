@@ -4971,6 +4971,43 @@ const recipes = {
       ]
     ]
   },
+  "Fleece": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Cotton",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Padding",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "White Wool",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ]
+    ]
+  },
   "Project Image Material": {
     "ingredients": [
       {
