@@ -1337,6 +1337,38 @@ const recipes = {
       ]
     ]
   },
+  "Summon Celestial Material": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Iron Ingot",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Gold Ingot",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        ""
+      ]
+    ]
+    },
   "Shroomy Mixture": {
     "ingredients": [
       {
