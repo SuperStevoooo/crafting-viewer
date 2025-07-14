@@ -17,7 +17,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -44,7 +44,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -71,7 +71,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -98,7 +98,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -125,7 +125,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -157,7 +157,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -184,7 +184,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -216,7 +216,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -243,7 +243,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -641,7 +641,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -673,7 +673,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -705,7 +705,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -737,7 +737,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -769,7 +769,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -801,7 +801,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -833,7 +833,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -865,7 +865,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -897,7 +897,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -929,7 +929,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -961,7 +961,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -993,7 +993,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1025,7 +1025,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1057,7 +1057,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1089,7 +1089,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1121,7 +1121,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1153,7 +1153,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1185,7 +1185,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1217,7 +1217,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1254,7 +1254,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1286,7 +1286,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1318,7 +1318,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1345,7 +1345,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1377,7 +1377,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1409,7 +1409,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1441,7 +1441,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1473,7 +1473,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1505,7 +1505,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1537,7 +1537,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1569,7 +1569,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1601,7 +1601,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1633,7 +1633,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1665,7 +1665,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1697,7 +1697,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1729,7 +1729,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1761,7 +1761,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1793,7 +1793,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1825,7 +1825,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1857,7 +1857,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -1889,7 +1889,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1921,7 +1921,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1953,7 +1953,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -1980,7 +1980,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2012,7 +2012,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2044,7 +2044,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2076,7 +2076,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2113,7 +2113,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2140,7 +2140,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2172,7 +2172,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2199,7 +2199,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2231,7 +2231,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2258,7 +2258,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2290,7 +2290,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2322,7 +2322,7 @@ const recipes = {
       [
         "A",
         "",
-        "A"
+        ""
       ],
       [
         "",
@@ -2330,9 +2330,9 @@ const recipes = {
         ""
       ],
       [
-        "A",
         "",
-        "A"
+        "",
+        ""
       ]
     ]
   },
@@ -2349,7 +2349,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2381,7 +2381,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2413,7 +2413,7 @@ const recipes = {
       [
         "A",
         "",
-        "A"
+        ""
       ],
       [
         "",
@@ -2421,9 +2421,9 @@ const recipes = {
         ""
       ],
       [
-        "A",
         "",
-        "A"
+        "",
+        ""
       ]
     ]
   },
@@ -2553,7 +2553,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2878,7 +2878,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2910,7 +2910,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2942,7 +2942,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -2969,7 +2969,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -3001,7 +3001,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3033,7 +3033,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -3060,7 +3060,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -3087,7 +3087,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3124,7 +3124,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3156,7 +3156,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3203,7 +3203,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3230,7 +3230,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -3262,7 +3262,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3289,7 +3289,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -3321,7 +3321,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3353,7 +3353,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3390,7 +3390,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3422,7 +3422,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3459,7 +3459,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3491,7 +3491,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -3518,7 +3518,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -3545,7 +3545,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3572,7 +3572,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3604,7 +3604,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3636,7 +3636,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3673,7 +3673,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3710,7 +3710,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3747,7 +3747,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3784,7 +3784,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -3816,7 +3816,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3853,7 +3853,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3885,7 +3885,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3917,7 +3917,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -3944,7 +3944,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -3976,7 +3976,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -4003,7 +4003,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -4035,7 +4035,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -4072,7 +4072,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -4099,7 +4099,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -4126,7 +4126,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -4153,7 +4153,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -4190,7 +4190,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -4232,7 +4232,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -4259,7 +4259,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -4296,7 +4296,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -4343,7 +4343,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -4385,7 +4385,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -4412,7 +4412,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -4454,7 +4454,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -4486,7 +4486,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -4523,7 +4523,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -4575,7 +4575,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -5462,6 +5462,73 @@ const recipes = {
       ]
     ]
   },
+  "Various Music Discs": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Amethyst Shard",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Redstone Dust",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Emerald",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Nether Quartz",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Shulker Shell",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Prismarine Crystal",
+        "qty": 1
+      },
+      {
+        "label": "G",
+        "item": "Glowstone Dust",
+        "qty": 1
+      },
+      {
+        "label": "H",
+        "item": "Prismarine Shard",
+        "qty": 1
+      },
+      {
+        "label": "I",
+        "item": "Echo Shard",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "C"
+      ],
+      [
+        "D",
+        "E",
+        "F"
+      ],
+      [
+        "G",
+        "H",
+        "I"
+      ]
+    ]
+  },
   "Imprisonment - Chaining Material": {
     "ingredients": [
       {
@@ -6018,7 +6085,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -6050,7 +6117,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "B",
@@ -6077,7 +6144,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -6114,7 +6181,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -6151,7 +6218,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6183,7 +6250,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6210,7 +6277,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -6237,7 +6304,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -6261,10 +6328,37 @@ const recipes = {
       {
         "label": "A",
         "item": "Powdered Gemstone Dust (x50)",
-        "qty": 1
+        "qty": 50
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Refined Gemstone Dust Trade Pack": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Refined Powdered Gemstone (x10)",
+        "qty": 10
+      }
+    ],
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6296,7 +6390,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6328,7 +6422,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -6360,7 +6454,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -6392,7 +6486,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -6424,7 +6518,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -6456,7 +6550,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -6493,7 +6587,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -6530,7 +6624,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -6549,7 +6643,7 @@ const recipes = {
             ]
         ]
     },
-  "Platinum Ring [50GP]": {
+  "Platinum Ring": {
     "ingredients": [
       {
         "label": "A",
@@ -6562,7 +6656,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6594,7 +6688,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -6631,7 +6725,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -6668,7 +6762,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -6700,7 +6794,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6732,7 +6826,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6764,7 +6858,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -6796,7 +6890,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6828,7 +6922,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -6860,7 +6954,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6892,7 +6986,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6956,7 +7050,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6988,7 +7082,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7020,7 +7114,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7052,7 +7146,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7084,7 +7178,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7103,6 +7197,33 @@ const recipes = {
       ]
     ]
   },
+  "Leather": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Rotten Flesh",
+        "qty": 1
+      }
+    ],
+    "system": "Campfire, Furnace etc",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "Raw Hide": {
     "ingredients": [
       {
@@ -7111,7 +7232,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7136,24 +7257,19 @@ const recipes = {
         "label": "A",
         "item": "Raw Hide",
         "qty": 1
-      },
-      {
-        "label": "B",
-        "item": "Shears",
-        "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Anvil",
     "table": [
       [
-        "A",
-        "B",
+        "",
+        "",
         ""
       ],
       [
+        "A",
         "",
-        "",
-        ""
+        "A"
       ],
       [
         "",
@@ -7175,7 +7291,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7207,7 +7323,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7232,18 +7348,13 @@ const recipes = {
         "label": "A",
         "item": "Limed Hide Sheet",
         "qty": 1
-      },
-      {
-        "label": "B",
-        "item": "Iron Sword",
-        "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
-        "B",
+        "",
         ""
       ],
       [
@@ -7271,7 +7382,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7303,7 +7414,7 @@ const recipes = {
       [
         "A",
         "",
-        "A"
+        ""
       ],
       [
         "",
@@ -7311,9 +7422,9 @@ const recipes = {
         ""
       ],
       [
-        "A",
         "",
-        "A"
+        "",
+        ""
       ]
     ]
   },
@@ -7321,11 +7432,11 @@ const recipes = {
       "ingredients": [
           {
               "label": "A",
-              "item": "Tanned Leather Sheet",
+              "item": "Leather",
               "qty": 1
           }
       ],
-    "system": "Grindstone",
+    "system": "Stonecutter",
     "table": [
       [
         "",
@@ -7357,7 +7468,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7404,7 +7515,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7441,7 +7552,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7478,7 +7589,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7515,7 +7626,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7542,7 +7653,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7574,7 +7685,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7601,7 +7712,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7660,7 +7771,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7687,7 +7798,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7714,7 +7825,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7751,7 +7862,7 @@ const recipes = {
               "qty": 1
           }
       ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -7788,7 +7899,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -7825,7 +7936,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -7879,7 +7990,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7906,7 +8017,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7938,7 +8049,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -7970,7 +8081,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -8002,7 +8113,1069 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Small Molten Gold": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Gold Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Campfire",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Medium Molten Gold": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Gold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Large Molten Gold": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Gold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Small Gold Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Gold",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Medium Gold Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Gold",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Large Gold Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Molten Gold",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Small Molten Copper": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Copper Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Campfire",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Medium Molten Copper": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Copper",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Large Molten Copper": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Copper",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Small Copper Bar": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Copper",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Medium Copper Bar": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Copper",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Large Copper Bar": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Molten Copper",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+    "Small Molten Silver": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Silver Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Campfire",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Medium Molten Silver": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Silver",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Large Molten Silver": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Silver",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Small Silver Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Silver",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Medium Silver Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Silver",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Large Silver Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Molten Silver",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+    "Small Molten Platinum": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Platinum Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Campfire",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Medium Molten Platinum": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Platinum",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Large Molten Platinum": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Platinum",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Small Platinum Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Platinum",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Medium Platinum Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Platinum",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Large Platinum Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Molten Platinum",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+    "Small Molten Mithral": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Mithral Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Campfire",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Medium Molten Mithral": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Mithral",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Large Molten Mithral": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Mithral",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Small Mithral Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Mithral",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Medium Mithral Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Mithral",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Large Mithral Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Molten Mithral",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+    "Small Molten Adamantine": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Adamantine Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Campfire",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Medium Molten Adamantine": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Adamantine",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Large Molten Adamantine": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Adamantine",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Small Adamantine Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Molten Adamantine",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Medium Adamantine Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Adamantine",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Medium Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Large Adamantine Ingot": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Large Molten Adamantine",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Large Mold",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -8039,7 +9212,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -8081,7 +9254,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8123,7 +9296,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8160,7 +9333,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8354,7 +9527,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8445,7 +9618,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8477,7 +9650,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8509,7 +9682,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8546,7 +9719,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8598,7 +9771,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8662,7 +9835,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8694,7 +9867,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -8721,7 +9894,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8758,7 +9931,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8790,7 +9963,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8827,7 +10000,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8859,7 +10032,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8878,7 +10051,7 @@ const recipes = {
             ]
         ]
     },
-    "Liquid Sugar": {
+    "Bucket of Liquid Sugar": {
         "ingredients": [
             {
                 "label": "A",
@@ -8909,7 +10082,7 @@ const recipes = {
         "ingredients": [
             {
                 "label": "A",
-                "item": "Liquid Sugar",
+                "item": "Bucket of Liquid Sugar",
                 "qty": 1
             },
             {
@@ -8918,7 +10091,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -8960,7 +10133,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -8992,7 +10165,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9029,7 +10202,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9061,7 +10234,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9093,7 +10266,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9298,7 +10471,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9330,7 +10503,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9362,7 +10535,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9404,7 +10577,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9446,7 +10619,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9493,7 +10666,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9540,7 +10713,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9592,7 +10765,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9654,7 +10827,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "B",
@@ -9716,7 +10889,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "B",
@@ -9773,7 +10946,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "G",
@@ -9816,11 +10989,11 @@ const recipes = {
             },
             {
                 "label": "E",
-                "item": "Bucket of Sugar",
+                "item": "Sugar",
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9867,7 +11040,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9919,7 +11092,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -9966,7 +11139,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10013,7 +11186,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10040,7 +11213,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10072,7 +11245,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10104,7 +11277,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10136,7 +11309,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10232,7 +11405,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10269,7 +11442,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10360,7 +11533,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10515,7 +11688,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10707,7 +11880,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10734,7 +11907,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Hold Cook Utensils Crafting Table",
+        "system": "Hold Cook Utensils Crafting Bench",
         "table": [
             [
                 "A",
@@ -10766,7 +11939,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -10894,7 +12067,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "",
@@ -10926,7 +12099,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Crafting Table",
+        "system": "Crafting Bench",
         "table": [
             [
                 "A",
@@ -10958,7 +12131,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Hold Brewer's Supplies Crafting Table",
+        "system": "Hold Brewer's Supplies Crafting Bench",
         "table": [
             [
                 "A",
@@ -10990,7 +12163,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Hold Brewer's Supplies Crafting Table",
+        "system": "Hold Brewer's Supplies Crafting Bench",
         "table": [
             [
                 "A",
@@ -11017,7 +12190,7 @@ const recipes = {
                 "qty": 1
             }
         ],
-        "system": "Hold Brewer's Supplies Crafting Table",
+        "system": "Hold Brewer's Supplies Crafting Bench",
         "table": [
             [
                 "A",
@@ -11076,7 +12249,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11154,15 +12327,42 @@ const recipes = {
       ]
     ]
   },
-  "Downgrade Molten Iron": {
+  "Downgrade Large Molten Metals": {
     "ingredients": [
       {
         "label": "A",
-        "item": "Large Molten Iron into Medium Molten Iron into Small Molten Iron",
+        "item": "Large Molten Metal",
         "qty": 1
       }
     ],
-    "system": "N/A",
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Downgrade Medium Molten Metal": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Molten Metals",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11385,15 +12585,20 @@ const recipes = {
       ]
     ]
   },
-  "Chain": {
+  "Large Iron Chain": {
     "ingredients": [
       {
         "label": "A",
         "item": "Small Molten Iron",
         "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Iron Chain",
+        "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11406,9 +12611,9 @@ const recipes = {
         "A"
       ],
       [
-        "",
-        "",
-        ""
+        "B",
+        "B",
+        "B"
       ]
     ]
   },
@@ -11416,7 +12621,7 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Small\u00a0 Iron Plate",
+        "item": "Small Iron Plate",
         "qty": 1
       }
     ],
@@ -11439,7 +12644,7 @@ const recipes = {
       ]
     ]
   },
-  "Hold Smith's Tools Hammer": {
+  "Hammer": {
     "ingredients": [
       {
         "label": "A",
@@ -11452,7 +12657,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11484,7 +12689,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11530,7 +12735,7 @@ const recipes = {
       ]
     ]
   },
-  "Hold Smith's Tools Steel Mirror": {
+  "Steel Mirror": {
     "ingredients": [
       {
         "label": "A",
@@ -11539,7 +12744,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Iron Nugget",
+        "item": "Small Iron Nugget",
         "qty": 1
       },
       {
@@ -11548,7 +12753,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11607,7 +12812,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -11639,7 +12844,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -11676,7 +12881,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -11700,7 +12905,7 @@ const recipes = {
       {
         "label": "A",
         "item": "Small Iron Nugget (10 in each slot)",
-        "qty": 1
+        "qty": 10
       }
     ],
     "system": "Anvil",
@@ -11730,7 +12935,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11784,7 +12989,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11816,7 +13021,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -11853,7 +13058,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11885,7 +13090,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11922,7 +13127,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -11969,7 +13174,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12021,7 +13226,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12068,7 +13273,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12115,7 +13320,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12172,7 +13377,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12214,7 +13419,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12230,6 +13435,2043 @@ const recipes = {
         "C",
         "C",
         "D"
+      ]
+    ]
+  },
+  "Hardening Agent": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Uncooked Binding Agent",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Salty Brine",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Alchemist Supplies",
+    "table": [
+      [
+        "A",
+        "A",
+        "B"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Hardened Paper": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Paper",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Hardening Agent",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Calligrapher Supplies",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ]
+    ]
+  },
+  "Hardened Leather": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Prepared Hide Sheet",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Hardening Agent",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Leatherworker Tools",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Hardened Wood": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of Wood",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Hardening Agent",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Woodcarver Tools",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Hardened Fabric": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Woven Fabric",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Hardening Agent",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Weaver Tools",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Cut Fabric": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Woven Fabric",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Weaver Tools",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Fur Leather": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Raw Hide",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Leatherworker Tools",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Gem Eyes": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Any Gemstone",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Polish",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Jeweler Tools",
+    "table": [
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Gem Nose": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Any Gemstone",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Polish",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Jeweler Tools",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Simple Buckle": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Gold Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench with Smith Tools",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Gray Cat Ears": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Fur Leather",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Padding",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "B",
+        "",
+        "B"
+      ],
+      [
+        "C",
+        "",
+        "C"
+      ]
+    ]
+  },
+  "Large Black Horns": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of Bone",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Polish",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Black Dye",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "C",
+        ""
+      ]
+    ]
+  },
+  "Large Red Horns": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of Bone",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Polish",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Small Gold Nugget",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Red Dye",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "D",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ]
+    ]
+  },
+  "Large White Horns": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of Bone",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Polish",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Small Gold Nugget",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "White Dye",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "D",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ]
+    ]
+  },
+  "Crown Horns": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of Bone",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Polish",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Black Dye",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "",
+        "C"
+      ]
+    ]
+  },
+  "Black Umbrella": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Black Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Pink Umbrella": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Pink Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Blue Umbrella": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Light Blue Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Ribbon": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Cut Fabric",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Waxed String",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "A",
+        "",
+        "A"
+      ]
+    ]
+  },
+  "Double Hair Ribbon": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Ribbon",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Waxed String",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Bowtie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Ribbon",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Artificer Goggles": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Blown Glass",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Gold Bar",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Small Iron Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "B",
+        "",
+        "B"
+      ],
+      [
+        "C",
+        "",
+        "C"
+      ]
+    ]
+  },
+  "Black Cowboy Hat": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Leather",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Simple Buckle",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Black Dye",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "C",
+        "A",
+        "C"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Brown Cowboy Hat": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Leather",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Simple Buckle",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Brown Dye",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "C",
+        "A",
+        "C"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "White Cowboy Hat": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Leather",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Simple Buckle",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "White Dye",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "C",
+        "A",
+        "C"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Miner Hat": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Iron Ingot",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Redstone Lamp",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "",
+        "A"
+      ]
+    ]
+  },
+  "Baker Hat": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Fabric",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "White Dye",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Silk Strands",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "",
+        "C"
+      ],
+      [
+        "",
+        "C",
+        ""
+      ]
+    ]
+  },
+  "Viking Helmet": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Iron Ingot",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Iron Chain",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Hardened Leather",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "C",
+        "A",
+        "C"
+      ],
+      [
+        "B",
+        "C",
+        "B"
+      ]
+    ]
+  },
+  "Horned Viking Helmet": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Medium Iron Ingot",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Huge Claw",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Hardened Leather",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "C",
+        "",
+        "C"
+      ]
+    ]
+  },
+  "Wizard Hat": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Woven Fabric",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Simple Buckle",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "",
+        "A"
+      ]
+    ]
+  },
+  "Farmer Hat": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Wheat",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Hay Bale",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Square Glasses On Face": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Blown Glass",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Iron Ingot",
+        "qty": 1
+      },
+       {
+        "label": "C",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "",
+        "C"
+      ],
+      [
+        "C",
+        "",
+        "C"
+      ]
+    ]
+  },
+  "Square Glasses Up on Forehead": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Square Glasses On Face",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Small Rectangle Glasses on Face": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Square Glasses Up on Forehead",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Square Glasses On Face": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Rectangle Glasses on Face",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Piano": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Black Dye",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Reinforced Wood",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Large Iron Ingot",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Hardened Wood",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "E",
+        "E",
+        "E"
+      ]
+    ]
+  },
+  "Iron Xylophone": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Iron Ingot",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Hardened Wood",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "D"
+      ]
+    ]
+  },
+  "Xylophone": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of Wood",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Hardened Wood",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "D"
+      ]
+    ]
+  },
+  "Bell": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Gold Nugget",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Gold Bar",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Stick",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Note Block",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "",
+        "D",
+        ""
+      ]
+    ]
+  },
+  "Cowbell": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Iron Nugget",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Iron Ingot",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Stick",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Note Block",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "",
+        "D",
+        ""
+      ]
+    ]
+  },
+  "Baked Bread COSMETIC": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Loaf of Bread",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Biscuit",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Pastry",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "C"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Baked Goods COSMETIC": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Spice Muffin",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Mixed Berry Muffin",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Pastry",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "C"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Almiraj Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Rabbit Hide",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Crackling Horn",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Pink Dye",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "D",
+        "E",
+        "D"
+      ]
+    ]
+  },
+  "Polar Bear Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "White Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Light Blue Dye",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Packed Ice",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "D",
+        "E",
+        "D"
+      ]
+    ]
+  },
+  "White Kobold Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "White Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Gem Eyes",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Brown Dye",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "D",
+        "E",
+        "D"
+      ]
+    ]
+  },
+  "Green Kobold Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Green Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Gem Eyes",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Brown Dye",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "D",
+        "E",
+        "D"
+      ]
+    ]
+  },
+  "Dragon Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Red Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Blaze Powder",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Orange Dye",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "D",
+        "E",
+        "D"
+      ]
+    ]
+  },
+  "Beholder Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Zombie Eye",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Purple Wool",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "White Dye",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "A",
+        "C",
+        "A"
+      ],
+      [
+        "D",
+        "E",
+        "D"
+      ]
+    ]
+  },
+  "Winged Red Kobold Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Phantom Membrane",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Gem Eyes",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Red Wool",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Brown Dye",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "E",
+        "F",
+        "E"
+      ]
+    ]
+  },
+  "Mimic Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Brown Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "White Dye",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Purple Wool",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Trapped Chest",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "E",
+        "F",
+        "E"
+      ]
+    ]
+  },
+  "Capybara Plushie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Brown Wool",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Orange Dye",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ]
+    ]
+  },
+  "Fancy Fan": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Paper",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Silk Strands",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Stick",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Small Gold Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "",
+        "C",
+        ""
+      ]
+    ]
+  },
+  "Cigar": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Paper",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Red Leaf",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ]
+    ]
+  },
+  "Wooden Pipe": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Stick",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Bowl",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "",
+        "B"
+      ],
+      [
+        "",
+        "A",
+        "A"
+      ]
+    ]
+  },
+  "Halo": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Gold Bar",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ]
+    ]
+  },
+  "Deck of Cards": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Paper",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
       ]
     ]
   },
@@ -12261,7 +15503,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12308,7 +15550,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -12345,7 +15587,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -12360,6 +15602,33 @@ const recipes = {
       [
         "B",
         "B",
+        ""
+      ]
+    ]
+  },
+  "Horse Barding": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "4x Armor",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "",
+        "",
         ""
       ]
     ]
@@ -12382,7 +15651,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12446,7 +15715,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12478,7 +15747,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12547,7 +15816,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -12579,7 +15848,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12648,7 +15917,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -12685,7 +15954,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12749,7 +16018,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12781,7 +16050,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12850,7 +16119,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12882,7 +16151,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -12951,7 +16220,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -12983,7 +16252,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -13052,7 +16321,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13084,7 +16353,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13148,7 +16417,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13180,7 +16449,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13249,7 +16518,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -13281,7 +16550,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13345,7 +16614,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -13377,7 +16646,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13446,7 +16715,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13478,7 +16747,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13547,7 +16816,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -13579,7 +16848,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13643,7 +16912,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -13675,7 +16944,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13744,7 +17013,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -13781,7 +17050,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13845,7 +17114,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13877,7 +17146,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13946,7 +17215,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -13978,7 +17247,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14047,7 +17316,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -14084,7 +17353,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14153,7 +17422,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14185,7 +17454,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14254,7 +17523,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14286,7 +17555,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14350,7 +17619,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14382,7 +17651,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14451,7 +17720,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14483,7 +17752,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -14552,7 +17821,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14584,7 +17853,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14653,7 +17922,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -14685,7 +17954,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14717,7 +17986,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14754,7 +18023,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "C",
@@ -14786,7 +18055,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14818,7 +18087,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14834,6 +18103,33 @@ const recipes = {
         "",
         "",
         ""
+      ]
+    ]
+  },
+  "Blown Glass": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Glass",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
       ]
     ]
   },
@@ -14855,7 +18151,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14892,7 +18188,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14929,7 +18225,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -14961,7 +18257,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -14998,7 +18294,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15030,7 +18326,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15082,7 +18378,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "D",
@@ -15129,7 +18425,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15176,7 +18472,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -15208,7 +18504,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15235,7 +18531,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -15262,7 +18558,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15294,7 +18590,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15321,7 +18617,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15353,7 +18649,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15380,7 +18676,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15417,7 +18713,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15449,7 +18745,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -15491,7 +18787,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "D",
@@ -15550,7 +18846,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15577,7 +18873,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -15604,7 +18900,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -15636,7 +18932,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15668,7 +18964,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15700,7 +18996,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15727,7 +19023,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15754,7 +19050,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15786,7 +19082,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -15813,7 +19109,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -15855,7 +19151,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15882,7 +19178,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15914,7 +19210,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15941,7 +19237,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -15973,7 +19269,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16000,7 +19296,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16032,7 +19328,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -16064,7 +19360,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16107,11 +19403,11 @@ const recipes = {
       },
       {
         "label": "E",
-        "item": "Lower\u00a0 Bow Limb",
+        "item": "Lower Bow Limb",
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16153,7 +19449,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -16185,7 +19481,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16217,7 +19513,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -16249,7 +19545,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -16296,7 +19592,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Campfire",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16343,7 +19639,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16390,7 +19686,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16422,7 +19718,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16449,7 +19745,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16476,7 +19772,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
@@ -16508,7 +19804,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -16540,7 +19836,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "B",
@@ -16572,7 +19868,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Crafting Table",
+    "system": "Crafting Bench",
     "table": [
       [
         "A",
