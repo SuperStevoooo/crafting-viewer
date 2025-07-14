@@ -3194,7 +3194,7 @@ const recipes = {
       },
       {
         "label": "D",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -3317,7 +3317,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       }
     ],
@@ -3381,7 +3381,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -3450,7 +3450,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -3664,7 +3664,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -3696,7 +3696,7 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -3733,7 +3733,7 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -3849,7 +3849,7 @@ const recipes = {
       },
       {
         "label": "C",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       }
     ],
@@ -3881,7 +3881,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Silver Bar",
+        "item": "Small Silver Ingot",
         "qty": 1
       }
     ],
@@ -3913,7 +3913,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       }
     ],
@@ -4571,7 +4571,7 @@ const recipes = {
       },
       {
         "label": "F",
-        "item": "Large Silver Bar",
+        "item": "Large Silver Ingot",
         "qty": 1
       }
     ],
@@ -4709,7 +4709,7 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Large Silver Bar",
+        "item": "Large Silver Ingot",
         "qty": 1
       }
     ],
@@ -4911,7 +4911,7 @@ const recipes = {
       },
       {
         "label": "C",
-        "item": "Large Silver Bar",
+        "item": "Large Silver Ingot",
         "qty": 1
       }
     ],
@@ -5217,7 +5217,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Medium Gold Bar",
+        "item": "Medium Gold Ingot",
         "qty": 1
       }
     ],
@@ -5558,12 +5558,12 @@ const recipes = {
       },
       {
         "label": "F",
-        "item": "Medium Gold Bar",
+        "item": "Medium Gold Ingot",
         "qty": 1
       },
       {
         "label": "G",
-        "item": "Medium Silver Bar",
+        "item": "Medium Silver Ingot",
         "qty": 1
       },
       {
@@ -6583,7 +6583,7 @@ const recipes = {
             },
             {
                 "label": "C",
-                "item": "Small Gold or Silver Bar",
+                "item": "Small Gold or Silver Ingot",
                 "qty": 1
             }
         ],
@@ -6620,7 +6620,7 @@ const recipes = {
             },
             {
                 "label": "C",
-                "item": "Small Gold or Silver Bar",
+                "item": "Small Gold or Silver Ingot",
                 "qty": 1
             }
         ],
@@ -12435,7 +12435,7 @@ const recipes = {
       ]
     ]
   },
-  "Refine into Small Gold Bar": {
+  "Refine into Small Gold Ingot": {
     "ingredients": [
       {
         "label": "A",
@@ -12462,7 +12462,7 @@ const recipes = {
       ]
     ]
   },
-  "Refine into Small Silver Bar": {
+  "Refine into Small Silver Ingot": {
     "ingredients": [
       {
         "label": "A",
@@ -13720,7 +13720,7 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       }
     ],
@@ -14134,7 +14134,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -14738,7 +14738,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -15334,7 +15334,7 @@ const recipes = {
       },
       {
         "label": "D",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       }
     ],
@@ -15425,7 +15425,7 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       }
     ],
@@ -18009,7 +18009,7 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
@@ -18216,7 +18216,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Small Gold Bar",
+        "item": "Small Gold Ingot",
         "qty": 1
       },
       {
