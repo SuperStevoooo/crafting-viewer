@@ -532,16 +532,119 @@ const recipes = {
       ]
     ]
   },
+  "Powdered Mithral": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Mithral Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Pinch of Mithral Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Mithral",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Powdered Adamantine": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Adamantine Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "Pinch of Adamantine Dust": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Powdered Adamantine",
+        "qty": 1
+      }
+    ],
+    "system": "Grindstone",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "Activated Charcoal": {
     "ingredients": [
       {
         "label": "A",
         "item": "Dense Charcoal",
-        "qty": 1
-      },
-      {
-        "label": "B",
-        "item": "Fuel",
         "qty": 1
       }
     ],
@@ -559,7 +662,7 @@ const recipes = {
       ],
       [
         "",
-        "B",
+        "",
         ""
       ]
     ]
@@ -570,11 +673,6 @@ const recipes = {
         "label": "A",
         "item": "Oily Rock",
         "qty": 1
-      },
-      {
-        "label": "B",
-        "item": "Fuel",
-        "qty": 1
       }
     ],
     "system": "Smelter/Furnace",
@@ -591,7 +689,7 @@ const recipes = {
       ],
       [
         "",
-        "B",
+        "",
         ""
       ]
     ]
@@ -602,11 +700,6 @@ const recipes = {
         "label": "A",
         "item": "Sulfuric Rock",
         "qty": 1
-      },
-      {
-        "label": "B",
-        "item": "Fuel",
-        "qty": 1
       }
     ],
     "system": "Smelter/Furnace",
@@ -623,7 +716,7 @@ const recipes = {
       ],
       [
         "",
-        "B",
+        "",
         ""
       ]
     ]
@@ -632,11 +725,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Nightshade",
         "qty": 1
       }
@@ -645,7 +733,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -664,11 +752,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Moonstalker",
         "qty": 1
       }
@@ -677,7 +760,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -696,11 +779,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Mandrake Root",
         "qty": 1
       }
@@ -709,7 +787,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -728,11 +806,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Gillyweed",
         "qty": 1
       }
@@ -741,7 +814,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -760,11 +833,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Rowan Berries",
         "qty": 1
       }
@@ -773,7 +841,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -792,11 +860,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Ashblossom",
         "qty": 1
       }
@@ -805,7 +868,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -824,11 +887,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Wolfsbane",
         "qty": 1
       }
@@ -837,7 +895,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -856,11 +914,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Cat's Tongue",
         "qty": 1
       }
@@ -869,7 +922,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -888,11 +941,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Sourgrass",
         "qty": 1
       }
@@ -901,7 +949,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -920,11 +968,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Silverthorn",
         "qty": 1
       }
@@ -933,7 +976,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -952,11 +995,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Singing Nettle",
         "qty": 1
       }
@@ -965,7 +1003,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -1048,11 +1086,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Hagfinger",
         "qty": 1
       }
@@ -1061,7 +1094,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -1112,11 +1145,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Mindflayer Stinkhorn",
         "qty": 1
       }
@@ -1125,7 +1153,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -1144,11 +1172,6 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Mortar & Pestle",
-        "qty": 1
-      },
-      {
-        "label": "B",
         "item": "Fairy Stool",
         "qty": 1
       }
@@ -1157,7 +1180,7 @@ const recipes = {
     "table": [
       [
         "A",
-        "B",
+        "A",
         ""
       ],
       [
@@ -2004,8 +2027,13 @@ const recipes = {
       ]
     ]
   },
-  "Smoldering Mixture A\u00a0 - Sulfur": {
+  "Smoldering Mixture": {
     "ingredients": [
+      {
+        "label": "A",
+        "item": "Sulfur",
+        "qty": 1
+      },
       {
         "label": "B",
         "item": "Ashblossom Powder",
@@ -14809,6 +14837,441 @@ const recipes = {
       [
         "",
         "D",
+        ""
+      ]
+    ]
+  },
+  "Harp": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Stick",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Reinforced Bowstring",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Hardened Wood",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Reinforced Wood",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "E",
+        "E",
+        "E"
+      ]
+    ]
+  },
+  "Snare Drum": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Leather",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Small Iron Nugget",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "E",
+        "",
+        "E"
+      ]
+    ]
+  },
+  "Chimes": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Short Haft",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Small Gold Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "C",
+        "C"
+      ],
+      [
+        "C",
+        "C,
+        ""
+      ]
+    ]
+  },
+  "Bass Drum": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Hardened Leather",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Small Iron Nugget",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Cut Fabric",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "E",
+        "",
+        "E"
+      ]
+    ]
+  },
+  "Flute": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Small Iron Nugget",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Stick",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Waxed String",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Long Haft",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "C",
+        "A",
+        "C"
+      ]
+    ]
+  },
+  "Guitar": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Short Haft",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Leather Guard",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Hardened Wood",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Reinforced Bowstring",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "F",
+        "E",
+        "F"
+      ]
+    ]
+  },
+  "Bass Guitar": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Short Haft",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Leather Guard",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Hardened Wood",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Reinforced Bowstring",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Small Iron Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "F",
+        "E",
+        "F"
+      ]
+    ]
+  },
+  "Banjo": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Short Haft",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Leather Guard",
+        "qty": 1
+      },
+      {
+        "label": "C",
+        "item": "Hardened Wood",
+        "qty": 1
+      },
+      {
+        "label": "D",
+        "item": "Reinforced Bowstring",
+        "qty": 1
+      },
+      {
+        "label": "E",
+        "item": "Note Block",
+        "qty": 1
+      },
+      {
+        "label": "F",
+        "item": "Small Gold Nugget",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "B",
+        "A"
+      ],
+      [
+        "C",
+        "D",
+        "C"
+      ],
+      [
+        "F",
+        "E",
+        "F"
+      ]
+    ]
+  },
+  "Didgeridoo": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Long Haft",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Note Block",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "B",
+        ""
+      ]
+    ]
+  },
+  "Sticks": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Stick",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
         ""
       ]
     ]
