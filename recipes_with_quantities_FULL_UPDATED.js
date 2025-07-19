@@ -2495,22 +2495,22 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Composter",
+    "system": "Campfire",
     "table": [
       [
-        "",
-        "",
-        ""
-      ],
-      [
-        "",
         "A",
-        ""
+        "",
+        "A"
       ],
       [
         "",
         "",
         ""
+      ],
+      [
+        "A",
+        "",
+        "A"
       ]
     ]
   },
@@ -2518,26 +2518,26 @@ const recipes = {
     "ingredients": [
       {
         "label": "A",
-        "item": "Wheat Seeds",
+        "item": "Any Seeds",
         "qty": 1
       }
     ],
-    "system": "Composter",
+    "system": "Crafting Bench",
     "table": [
       [
-        "",
-        "",
-        ""
-      ],
-      [
-        "",
         "A",
-        ""
+        "A",
+        "A"
       ],
       [
-        "",
-        "",
-        ""
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
       ]
     ]
   },
@@ -2549,7 +2549,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Composter",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
