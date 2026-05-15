@@ -1115,7 +1115,7 @@ const recipes = {
         "label": "D",
         "item": "Wood Varnish",
         "qty": 1
-      }.
+      },
 	  {
         "label": "E",
         "item": "Rich Leather",
@@ -1246,7 +1246,7 @@ const recipes = {
         "label": "D",
         "item": "Silver Powder",
         "qty": 1
-      }.
+      },
 	  {
         "label": "E",
         "item": "Amanita Paste",
@@ -2333,7 +2333,7 @@ const recipes = {
         "label": "D",
         "item": "Singing Nettle Powder",
         "qty": 1
-      }.
+      },
 	  {
         "label": "E",
         "item": "Minor Venom",
@@ -4612,7 +4612,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Shaft",
+        "item": "Wooden Shaft",
         "qty": 1
       },
 	  {
@@ -5032,7 +5032,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Shaft",
+        "item": "Wooden Shaft",
         "qty": 1
       },
 	  {
@@ -5380,7 +5380,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Shaft",
+        "item": "Wooden Shaft",
         "qty": 1
       },
 	  {
@@ -5427,7 +5427,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Grip",
+        "item": "Wooden Grip",
         "qty": 1
       },
 	  {
@@ -5738,7 +5738,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Grip",
+        "item": "wooden Grip",
         "qty": 1
       },
 	  {
@@ -5864,7 +5864,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Grip",
+        "item": "wooden Grip",
         "qty": 1
       },
 	  {
@@ -5906,7 +5906,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Grip",
+        "item": "wooden Grip",
         "qty": 2
       },
 	  {
@@ -5995,7 +5995,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Shaft",
+        "item": "wooden Shaft",
         "qty": 1
       },
 	  {
@@ -6042,7 +6042,7 @@ const recipes = {
       },
       {
         "label": "B",
-        "item": "Wooded Shaft",
+        "item": "wooden Shaft",
         "qty": 1
       },
 	  {
@@ -6182,12 +6182,12 @@ const recipes = {
         "label": "B",
         "item": "Silverthorn Powder",
         "qty": 1
-      }
+      },
 	  {
         "label": "C",
         "item": "Silver Powder",
         "qty": 1
-      }.
+      },
 	  {
         "label": "D",
         "item": "Amanita Paste",
@@ -6224,12 +6224,12 @@ const recipes = {
         "label": "B",
         "item": "Yeast Bowl",
         "qty": 2
-      }
+      },
 	  {
         "label": "C",
         "item": "Water Bottle",
         "qty": 1
-      }.
+      },
 	  {
         "label": "D",
         "item": "Empty Wine Bottle",
