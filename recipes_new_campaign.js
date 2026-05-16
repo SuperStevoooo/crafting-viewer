@@ -673,11 +673,6 @@ const recipes = {
         "label": "A",
         "item": "Molten Iron",
         "qty": 2
-      },
-	  {
-        "label": "B",
-        "item": "Molten Iron",
-        "qty": 2
       }
     ],
     "system": "Anvil",
@@ -690,7 +685,7 @@ const recipes = {
       [
         "A",
         "",
-        "B"
+        "A"
       ],
       [
         "",
@@ -769,11 +764,6 @@ const recipes = {
         "label": "A",
         "item": "Glass",
         "qty": 3
-      },
-	  {
-        "label": "B",
-        "item": "Glass",
-        "qty": 3
       }
     ],
     "system": "Anvil",
@@ -786,7 +776,7 @@ const recipes = {
       [
         "A",
         "",
-        "B"
+        "A"
       ],
       [
         "",
