@@ -759,6 +759,7 @@ const recipes = {
     ]
   },
   "Empty Wine Bottle": {
+	"output": 3,
     "ingredients": [
       {
         "label": "A",
@@ -1310,6 +1311,7 @@ const recipes = {
     ]
   },
   "Mixed Berries": {
+	"output": 4,
     "ingredients": [
       {
         "label": "A",
@@ -3159,7 +3161,8 @@ const recipes = {
       ]
     ]
   },
-  "Chains": {
+  "Iron Chains": {
+	"output": 2,
     "ingredients": [
       {
         "label": "A",
@@ -3518,6 +3521,7 @@ const recipes = {
     ]
   },
   "Arrows": {
+	"output": 16,
     "ingredients": [
       {
         "label": "A",
@@ -3550,6 +3554,7 @@ const recipes = {
     ]
   },
   "Sporebread Slice": {
+	"output": 3,
     "ingredients": [
       {
         "label": "A",
@@ -3740,6 +3745,7 @@ const recipes = {
     ]
   },
   "Wooden Board": {
+	"output": 3,
     "ingredients": [
       {
         "label": "A",
@@ -3856,6 +3862,7 @@ const recipes = {
     ]
   },
   "Treated Skin": {
+	"output": 3,
     "ingredients": [
       {
         "label": "A",
@@ -3987,6 +3994,7 @@ const recipes = {
     ]
   },
   "Bullets": {
+	"output": 16,
     "ingredients": [
       {
         "label": "A",
@@ -4046,6 +4054,7 @@ const recipes = {
     ]
   },
   "Washed Rice": {
+	"output": 2,
     "ingredients": [
       {
         "label": "A",
@@ -4325,6 +4334,7 @@ const recipes = {
     ]
   },
   "Wooden Grip": {
+	"output": 2,
     "ingredients": [
       {
         "label": "A",
@@ -4357,6 +4367,7 @@ const recipes = {
     ]
   },
   "Deviled Egg": {
+	"output": 6,
     "ingredients": [
       {
         "label": "A",
@@ -4794,6 +4805,7 @@ const recipes = {
     ]
   },
   "Bolts": {
+	"output": 16,
     "ingredients": [
       {
         "label": "A",
@@ -5061,6 +5073,7 @@ const recipes = {
     ]
   },
   "Rope Piece": {
+	"output": 3,
     "ingredients": [
       {
         "label": "A",
@@ -6066,6 +6079,7 @@ const recipes = {
     ]
   },
   "Soaked Skin": {
+	"output": 3,
     "ingredients": [
       {
         "label": "A",
@@ -6204,6 +6218,7 @@ const recipes = {
     ]
   },
   "Wine Starter": {
+	"output": 3,
     "ingredients": [
       {
         "label": "A",
@@ -6246,6 +6261,7 @@ const recipes = {
     ]
   },
   "Wool Stuffing": {
+	"output": 4,
     "ingredients": [
       {
         "label": "A",
@@ -6273,6 +6289,7 @@ const recipes = {
     ]
   },
   "Bluecap Flour": {
+	"output": 2,
     "ingredients": [
       {
         "label": "A",
@@ -6327,6 +6344,7 @@ const recipes = {
     ]
   },
   "White Wool": {
+	"output": 4,
     "ingredients": [
       {
         "label": "A",
@@ -6516,6 +6534,7 @@ const recipes = {
     ]
   },
   "Silk Strands": {
+	"output": 6,
     "ingredients": [
       {
         "label": "A",
@@ -6732,6 +6751,7 @@ const recipes = {
     ]
   },
   "Spool Thread": {
+	"output": 4,
     "ingredients": [
       {
         "label": "A",
@@ -6813,6 +6833,7 @@ const recipes = {
     ]
   },
   "Cooking Spices": {
+	"output": 2,
     "ingredients": [
       {
         "label": "A",
@@ -6867,6 +6888,7 @@ const recipes = {
     ]
   },
   "Milled Rice": {
+	"output": 2,
     "ingredients": [
       {
         "label": "A",
@@ -7056,6 +7078,7 @@ const recipes = {
     ]
   },
   "Silver Powder": {
+	"output": 3,
     "ingredients": [
       {
         "label": "A",
@@ -7137,6 +7160,7 @@ const recipes = {
     ]
   },
   "Spooled Twine": {
+	"output": 6,
     "ingredients": [
       {
         "label": "A",
@@ -7164,6 +7188,7 @@ const recipes = {
     ]
   },
   "Limed Pelt": {
+	"output": 2,
     "ingredients": [
       {
         "label": "A",
