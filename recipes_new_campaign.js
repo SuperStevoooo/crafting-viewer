@@ -5663,6 +5663,209 @@ const recipes = {
       ]
     ]
   },
+  "Empty Pie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Barley Flour",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Cooking Salt",
+        "qty": 1
+      },
+	  {
+        "label": "C",
+        "item": "Sugar",
+        "qty": 1
+      },
+	  {
+        "label": "D",
+        "item": "Butter Bowl",
+        "qty": 1
+      },
+	  {
+        "label": "E",
+        "item": "Yeast Bowl",
+        "qty": 1
+      },
+	  {
+        "label": "F",
+        "item": "Water Bottle",
+        "qty": 1
+      },
+	  {
+        "label": "G",
+        "item": "Rothe Milk",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "C",
+        "D"
+      ],
+      [
+        "E",
+        "F",
+        "G"
+      ]
+    ]
+  },
+  "Empty Spore Pie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Bluecap Flour",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Cooking Salt",
+        "qty": 1
+      },
+	  {
+        "label": "C",
+        "item": "Sugar",
+        "qty": 1
+      },
+	  {
+        "label": "D",
+        "item": "Butter Bowl",
+        "qty": 1
+      },
+	  {
+        "label": "E",
+        "item": "Yeast Bowl",
+        "qty": 1
+      },
+	  {
+        "label": "F",
+        "item": "Water Bottle",
+        "qty": 1
+      },
+	  {
+        "label": "G",
+        "item": "Beetle Milk",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "C",
+        "D"
+      ],
+      [
+        "E",
+        "F",
+        "G"
+      ]
+    ]
+  },
+  "Pigeon Pot Pie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Pea Pod",
+        "qty": 2
+      },
+      {
+        "label": "B",
+        "item": "White Onion",
+        "qty": 2
+      },
+	  {
+        "label": "C",
+        "item": "Cooked Pigeon",
+        "qty": 1
+      },
+	  {
+        "label": "D",
+        "item": "Carrot",
+        "qty": 2
+      },
+	  {
+        "label": "E",
+        "item": "Empty Pie",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "D",
+        "E",
+        "B"
+      ],
+      [
+        "",
+        "C",
+        ""
+      ]
+    ]
+  },
+  "Fungal Spore Pie": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Thoud Fungus",
+        "qty": 2
+      },
+      {
+        "label": "B",
+        "item": "Swarming Toadstool",
+        "qty": 2
+      },
+	  {
+        "label": "C",
+        "item": "Morel Fungus",
+        "qty": 1
+      },
+	  {
+        "label": "D",
+        "item": "Empty Spore Pie",
+        "qty": 2
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "B",
+        "D",
+        "B"
+      ],
+      [
+        "",
+        "C",
+        ""
+      ]
+    ]
+  },
   "Scrap Halberd": {
     "ingredients": [
       {
