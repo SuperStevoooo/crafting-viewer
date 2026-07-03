@@ -135,7 +135,34 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Campfire",
+    "system": "Furnace",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+ "Warm Water": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Water Bottle",
+        "qty": 1
+      }
+    ],
+    "system": "Furnace",
     "table": [
       [
         "",
@@ -162,7 +189,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "Campfire",
+    "system": "Furnace",
     "table": [
       [
         "",
@@ -6472,7 +6499,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6500,7 +6527,7 @@ const recipes = {
         "qty": 2
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6527,7 +6554,7 @@ const recipes = {
         "qty": 2
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6555,7 +6582,7 @@ const recipes = {
         "qty": 2
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6582,7 +6609,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6609,7 +6636,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6636,7 +6663,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6663,7 +6690,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6690,7 +6717,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6717,7 +6744,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6745,7 +6772,7 @@ const recipes = {
         "qty": 2
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6772,7 +6799,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6799,7 +6826,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6826,7 +6853,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6853,7 +6880,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6880,7 +6907,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6907,7 +6934,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6934,7 +6961,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6962,7 +6989,7 @@ const recipes = {
         "qty": 4
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -6989,7 +7016,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7016,7 +7043,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7044,7 +7071,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7071,7 +7098,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7099,7 +7126,7 @@ const recipes = {
         "qty": 2
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7126,7 +7153,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7153,7 +7180,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7180,7 +7207,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7207,7 +7234,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7234,7 +7261,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7261,7 +7288,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7289,7 +7316,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7316,7 +7343,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7343,7 +7370,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7371,7 +7398,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7399,7 +7426,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7426,7 +7453,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -7453,7 +7480,7 @@ const recipes = {
         "qty": 1
       }
     ],
-    "system": "GrindStone",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
