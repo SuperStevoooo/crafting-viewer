@@ -3143,6 +3143,100 @@ const recipes = {
       ]
     ]
   },
+  "Worm Stew": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Cooking Spices",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Bowl",
+        "qty": 1
+      },
+	  {
+        "label": "C",
+        "item": "Cooked Jumbo Worm",
+        "qty": 3
+      },
+	  {
+        "label": "D",
+        "item": "Potato",
+        "qty": 3
+      },
+	  {
+        "label": "E",
+        "item": "Warm Water",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "F",
+        ""
+      ],
+      [
+        "D",
+        "C",
+        "D"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ]
+    ]
+  },
+  "Starfish Soup": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Cooking Spices",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Bowl",
+        "qty": 1
+      },
+	  {
+        "label": "C",
+        "item": "Cooked Starfish",
+        "qty": 3
+      },
+	  {
+        "label": "D",
+        "item": "Potato",
+        "qty": 3
+      },
+	  {
+        "label": "E",
+        "item": "Warm Water",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "F",
+        ""
+      ],
+      [
+        "D",
+        "C",
+        "D"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ]
+    ]
+  },
   "Scrap Chain Shirt": {
     "ingredients": [
       {
