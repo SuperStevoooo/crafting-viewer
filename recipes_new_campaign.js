@@ -1511,6 +1511,38 @@ const recipes = {
       ]
     ]
   },
+"Green Tea": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Warm Water",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Roast Tea Leaves",
+        "qty": 2
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
   "Scrap Pike": {
     "ingredients": [
       {
