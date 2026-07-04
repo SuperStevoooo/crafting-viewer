@@ -1543,6 +1543,43 @@ const recipes = {
       ]
     ]
   },
+"Herbal Tea": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Warm Water",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Raw Tea Leaves",
+        "qty": 2
+      },
+	  {
+        "label": "C",
+        "item": "Singing Nettle",
+        "qty": 2
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "C",
+        "A",
+        "C"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
   "Scrap Pike": {
     "ingredients": [
       {
