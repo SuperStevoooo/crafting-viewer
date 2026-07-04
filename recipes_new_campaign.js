@@ -3091,6 +3091,58 @@ const recipes = {
       ]
     ]
   },
+  "Veggie Stew": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Cooking Spices",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Bowl",
+        "qty": 1
+      },
+	  {
+        "label": "C",
+        "item": "Pea Pod",
+        "qty": 3
+      },
+	  {
+        "label": "D",
+        "item": "Carrot",
+        "qty": 3
+      },
+	  {
+        "label": "E",
+        "item": "Potato",
+        "qty": 3
+      },
+	  {
+        "label": "F",
+        "item": "Warm Water",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "F",
+        ""
+      ],
+      [
+        "C",
+        "D",
+        "E"
+      ],
+      [
+        "A",
+        "B",
+        "A"
+      ]
+    ]
+  },
   "Scrap Chain Shirt": {
     "ingredients": [
       {
