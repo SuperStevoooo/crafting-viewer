@@ -208,6 +208,60 @@ const recipes = {
       ]
     ]
   },
+	"Roast Coffee Beans": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Raw Coffee Beans",
+        "qty": 1
+      }
+    ],
+    "system": "Furnace",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+	"Roast Tea Leaves": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Raw Tea Leaves",
+        "qty": 1
+      }
+    ],
+    "system": "Furnace",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "Rice Bowl": {
     "ingredients": [
       {
@@ -1521,6 +1575,38 @@ const recipes = {
       {
         "label": "B",
         "item": "Roast Tea Leaves",
+        "qty": 2
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "B",
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "B",
+        "B"
+      ]
+    ]
+  },
+   "Black Coffee": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Warm Water",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Roast Coffee Beans",
         "qty": 2
       }
     ],
