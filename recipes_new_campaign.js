@@ -6167,12 +6167,12 @@ const recipes = {
 	  {
         "label": "C",
         "item": "Morel Fungus",
-        "qty": 1
+        "qty": 2
       },
 	  {
         "label": "D",
         "item": "Empty Spore Pie",
-        "qty": 2
+        "qty": 1
       }
     ],
     "system": "Crafting Bench",
