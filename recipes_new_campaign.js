@@ -316,6 +316,33 @@ const recipes = {
       ]
     ]
   },
+   "Bowl": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Wood Scrapbox",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "A",
+        "",
+        "A"
+      ],
+      [
+        "",
+        "A",
+        ""
+      ]
+    ]
+  },
   "Bread Loaf": {
     "ingredients": [
       {
