@@ -187,9 +187,14 @@ const recipes = {
         "label": "A",
         "item": "Egg",
         "qty": 1
+      },
+	  {
+        "label": "B",
+        "item": "Warm Water",
+        "qty": 1
       }
     ],
-    "system": "Furnace",
+    "system": "Crafting Bench",
     "table": [
       [
         "",
@@ -203,7 +208,7 @@ const recipes = {
       ],
       [
         "",
-        "",
+        "B",
         ""
       ]
     ]
