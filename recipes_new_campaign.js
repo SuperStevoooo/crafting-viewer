@@ -7728,7 +7728,7 @@ const recipes = {
       {
         "label": "A",
         "item": "White Wool",
-        "qty": 1
+        "qty": 4
       }
     ],
     "system": "Crafting Bench",
