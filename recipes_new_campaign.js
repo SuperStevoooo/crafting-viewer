@@ -7646,7 +7646,7 @@ const recipes = {
       {
         "label": "A",
         "item": "Chunk of Silver",
-        "qty": 1
+        "qty": 3
       }
     ],
     "system": "Crafting Bench",
