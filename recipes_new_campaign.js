@@ -6421,7 +6421,7 @@ const recipes = {
       ]
     ]
   },
-  "Scimitar": {
+  "Dagger": {
     "ingredients": [
       {
         "label": "A",
