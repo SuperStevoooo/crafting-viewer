@@ -1198,6 +1198,58 @@ const recipes = {
       ]
     ]
   },
+  "Palm Pistol": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Metal Scrapbox",
+        "qty": 1
+      },
+      {
+        "label": "B",
+        "item": "Small Iron Bar",
+        "qty": 1
+      },
+	  {
+        "label": "C",
+        "item": "Leather Scrapbox",
+        "qty": 1
+      },
+	  {
+        "label": "D",
+        "item": "Wood Scrapbox",
+        "qty": 1
+      },
+	  {
+        "label": "E",
+        "item": "Martial Ranged Weapon Book",
+        "qty": 1
+      },
+	  {
+        "label": "F",
+        "item": "Trigger Mechanism",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "A",
+        "B",
+        "D"
+      ],
+      [
+        "E",
+        "C",
+        "F"
+      ]
+    ]
+  },
   "Whip": {
     "ingredients": [
       {
