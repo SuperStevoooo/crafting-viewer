@@ -154,6 +154,60 @@ const recipes = {
       ]
     ]
   },
+	"Liquid Mercury": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Cinnabar Lump",
+        "qty": 1
+      }
+    ],
+    "system": "Furnace",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+	"Bismuth Crystal": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of bismuth",
+        "qty": 1
+      }
+    ],
+    "system": "Furnace",
+    "table": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
  "Warm Water": {
     "ingredients": [
       {
@@ -866,6 +920,193 @@ const recipes = {
       ],
       [
         "",
+        "",
+        ""
+      ]
+    ]
+  },
+   "Rich Coal": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Coal",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "A",
+        "A",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+	"Zinc Ingots": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of zinc",
+        "qty": 1
+      },
+	  {
+        "label": "B",
+        "item": "Rich Coal",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "",
+        ""
+      ]
+    ]
+  },
+	"Lead Ingots": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of lead",
+        "qty": 1
+      },
+	  {
+        "label": "B",
+        "item": "Rich Coal",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "",
+        ""
+      ]
+    ]
+  },
+	"Nickle Ingots": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of nickle",
+        "qty": 1
+      },
+	  {
+        "label": "B",
+        "item": "Rich Coal",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "",
+        ""
+      ]
+    ]
+  },
+	"Copper Ingots": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of copper",
+        "qty": 1
+      },
+	  {
+        "label": "B",
+        "item": "Rich Coal",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
+        "",
+        ""
+      ]
+    ]
+  },
+	"Bismuth Ingots": {
+    "ingredients": [
+      {
+        "label": "A",
+        "item": "Chunk of bismuth",
+        "qty": 1
+      },
+	  {
+        "label": "B",
+        "item": "Rich Coal",
+        "qty": 1
+      }
+    ],
+    "system": "Crafting Bench",
+    "table": [
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "A",
+        "A",
+        "A"
+      ],
+      [
+        "B",
         "",
         ""
       ]
