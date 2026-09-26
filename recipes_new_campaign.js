@@ -4141,7 +4141,7 @@ const recipes = {
       ]
     ]
   },
-  "Scrap Quaterstaff": {
+  "Scrap Quarterstaff": {
     "ingredients": [
       {
         "label": "A",
@@ -4860,12 +4860,12 @@ const recipes = {
       ]
     ]
   },
-  "Quaterstaff": {
+  "Quarterstaff": {
     "ingredients": [
       {
         "label": "A",
         "item": "Wooden Board",
-        "qty": 1
+        "qty": 2
       },
       {
         "label": "B",
@@ -5688,7 +5688,7 @@ const recipes = {
       {
         "label": "B",
         "item": "Wooden Shaft",
-        "qty": 1
+        "qty": 2
       },
 	  {
         "label": "C",
